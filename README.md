@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Eryılmaz</h1>
-<h3 align="center">Relax software developer working in Bursa,Turkey.</h3>
+<h3 align="center">Ambitious software developer working in Bursa,Turkey.</h3>
 
 - 🔭 I’m currently working on [Flutter Mobile App Project](https://github.com/oguzhaneryilmaz/flutterProject)
 
