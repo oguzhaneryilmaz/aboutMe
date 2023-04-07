@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Eryılmaz</h1>
 <h3 align="center">Ambitious software developer working in Bursa,Turkey.</h3>
 
-- 🔭 I’m currently working on [Flutter Mobile App Project](https://github.com/oguzhaneryilmaz/Battleships)
-
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **oguzhaneryilmaz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
